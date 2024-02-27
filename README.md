@@ -1,0 +1,1 @@
+# trojkat-sierpinskiego
