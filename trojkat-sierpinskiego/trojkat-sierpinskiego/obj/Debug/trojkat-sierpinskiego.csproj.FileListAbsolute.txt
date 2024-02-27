@@ -1,0 +1,20 @@
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\bin\Debug\trojkat-sierpinskiego.exe.config
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\bin\Debug\trojkat-sierpinskiego.exe
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\bin\Debug\trojkat-sierpinskiego.pdb
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.csproj.AssemblyReference.cache
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat_sierpinskiego.Form1.resources
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat_sierpinskiego.Properties.Resources.resources
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.csproj.GenerateResource.cache
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.csproj.CoreCompileInputs.cache
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.exe
+C:\Users\mkozlowski\Desktop\aplikacje desktopowe\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.pdb
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\bin\Debug\trojkat-sierpinskiego.exe.config
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\bin\Debug\trojkat-sierpinskiego.exe
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\bin\Debug\trojkat-sierpinskiego.pdb
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.csproj.AssemblyReference.cache
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat_sierpinskiego.Form1.resources
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat_sierpinskiego.Properties.Resources.resources
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.csproj.GenerateResource.cache
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.exe
+C:\Users\Maciek\OneDrive\Pulpit\trojkat-sierpinskiego\trojkat-sierpinskiego\obj\Debug\trojkat-sierpinskiego.pdb
